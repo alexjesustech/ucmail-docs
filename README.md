@@ -2,6 +2,11 @@
 
 Official documentation and website for the **UCMail** ecosystem.
 
+## Status
+
+`0.1.0` — early development (work in progress). Docs and site are being built
+([SemVer](https://semver.org/) `0.y.z`).
+
 ## Structure
 
 ```
@@ -29,6 +34,10 @@ maintained in parity by the author. Untranslated pages fall back to English.
 
 Translations and fixes target the **`develop`** branch. Keep one file per page, mirroring
 the `docs/en/` tree exactly (same filenames).
+
+## License
+
+[MIT](LICENSE) © 2026 Alex Jesus.
 
 ---
 **Alex Jesus** · [`alexjesustech`](https://github.com/alexjesustech)
